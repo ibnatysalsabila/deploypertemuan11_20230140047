@@ -19,5 +19,5 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7be16e6f-0f12-4c12-9339-61ed43fc06d8" />
 
 ## data pada tabel yang terbuat
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acbee583-f5b2-44ea-b8c7-ba8f658e0a41" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/94c47bbb-831c-42d1-af9e-316e23982e5f" />
 
