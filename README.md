@@ -1,4 +1,4 @@
-### screenshot tampilan web pada halaman login, register, dan home
+### Screenshot Tampilan Web pada Halaman Login, Register, dan Home
 
 ## halaman login
   <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/e0b9027f-3c98-40bd-94c1-adcbea4abf9c" />
@@ -11,7 +11,7 @@
 
 ---
 
-### screenshot pada running app di wsl, isi docker-compose.yml dan isi data pada tabel yang terbuat
+### Screenshot pada Running App di Wsl, Isi docker-compose.yml dan Isi Data pada Tabel yang Terbuat
 ## running app di wsl
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/731ac33f-d790-4f23-b919-8cabc72307f1" />
 
